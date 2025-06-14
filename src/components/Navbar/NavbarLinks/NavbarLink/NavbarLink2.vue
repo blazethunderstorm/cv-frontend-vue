@@ -77,6 +77,7 @@ const menuButtonIsActive = ref(false)
   backdrop-filter: blur(5px) !important;
   border-radius: 5px !important;
   border: 0.5px solid var(--br-primary) !important;
+  
   background: var(--bg-primary-moz) !important;
   background-color: var(--bg-primary-chr) !important;
   color: white !important;
